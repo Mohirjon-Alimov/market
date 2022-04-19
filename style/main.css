@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.btn {
+  height: 30px;
+  display: block;
+  background-color: aqua;
+  color: darkgreen;
+  border: none;
+  border-radius: 20px;
+}
+.form-list {
+  height: 54px;
+  padding: 20px;
+  border: 1px solid aqua;
+  border-radius: 20px;
+}
+#adding {
+  border-radius: 4px;
+}
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.out {
+  border-radius: 20px;
+}
