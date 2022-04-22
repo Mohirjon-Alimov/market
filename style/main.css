@@ -12,10 +12,16 @@
   border-radius: 20px;
 }
 .form-list {
-  height: 54px;
-  padding: 20px;
+  height: 120px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   border: 1px solid aqua;
   border-radius: 20px;
+}
+.check {
+  display: block;
 }
 #adding {
   border-radius: 4px;
